@@ -1,27 +1,30 @@
 Derrick Mokaya B.S.
 Data Analyst | Data Scientist | IT Support Specialist
-👋 Hi there! I'm Derek, a passionate data enthusiast with over four years of experience in data entry and currently advancing my skills in data science and IT support.
 
-🎓 Education
-B.Sc. Actuarial Science (Expected Graduation: Dec 2025)
+👋 Hi there! I'm Derrick, a passionate data enthusiast with over four years working experience as a Data Entry Specialist.
 
-Multimedia University of Kenya
-Diploma in Data Management and Analytics (Expected Graduation: Dec 2025)
+🛠 SKILLS:
+Data Science & Analytics:
 
-KASNEB Kenya
-🛠 Skills
-Data Science & Analytics
-Programming & Tools: RStudio, SQL, IBM Cognos Analytics, Tableau, MS Power BI
-Techniques & Methods: Big Data, Data Mining, Machine Learning, Predictive Modelling, Statistical Analysis, Exploratory Data Analysis (EDA)
+Programming & Tools: 
+RStudio, SQL, IBM Cognos Analytics, Tableau, MS Power BI
+Techniques & Methods: 
+
+Big Data, Data Mining, Machine Learning, Predictive Modelling, Statistical Analysis, Exploratory Data Analysis (EDA)
+
 Data Visualization: Tableau, MS Power BI, Dashboard Design
 Software: MS Excel, MS Word, MS Access, MS PowerPoint
+
 Research: Data Science Research Methodology
-IT Support
+
+IT Support and Customer Service:
 Core Skills: Customer Service, Network Protocols, Cloud Computing, Debugging, System Administration, IT Security
-Finance
-Key Areas: Behavioral Finance, Financial Markets, Behavioral Economics
-📜 Certifications
-Data Science & Analytics:
+
+Finance:
+B.S. Actuarial Science
+Yale Financial Markets Certificate; Behavioral Finance, Financial Markets, Behavioral Economics
+
+📜 Courses & Certifications:
 IBM Data Science
 IBM Data Analytics
 Google Advanced Data Analytics
@@ -29,10 +32,6 @@ Google Analytics (GA4) Certification
 
 IT Support:
 Google IT Support Certificate
-
-Finance:
-BS Actuarial Science
-Yale Financial Markets by Coursera
 
 🏆 Professional Experience:
 Data Entry Specialist (Remote/Self-Employed)
