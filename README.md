@@ -1,5 +1,5 @@
-Derrick Mokaya B.S.
-Data Analyst | Data Scientist | IT Support Specialist
+Derrick Mokaya 
+Cybersecurity | Security Analyst | IT Support Specialist
 
 👋 Hi there! I'm Derrick, a passionate data enthusiast with over four years working experience as a Data Entry Specialist.
 
