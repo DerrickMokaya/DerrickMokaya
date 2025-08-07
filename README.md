@@ -8,7 +8,7 @@
 ---
 
 ## 👨‍💻 Professional Summary  
-Motivated and detail-oriented **Security Analyst** with a strong foundation in cybersecurity, data analysis, and system administration. Demonstrates practical skills in threat detection, network security, and incident response, reinforced by formal training and hands-on labs. Proficient in scripting and automation for security operations. Committed to continuous professional growth and contributing to secure, resilient IT environments.
+Motivated and passionate **Security Analyst** with a strong foundation in cybersecurity, data analysis, and system administration. Demonstrates practical skills in threat detection, network security, and incident response, reinforced by formal training and hands-on labs. Proficient in scripting and automation for security operations. Committed to continuous professional growth and contributing to secure, resilient IT environments.
 
 ---
 
