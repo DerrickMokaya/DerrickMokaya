@@ -58,6 +58,7 @@ Motivated and detail-oriented **Security Analyst** with a strong foundation in c
 ## 🧪 Projects & Lab Experience
 
 ### **🎯 Final Year Project – Social Network Analysis Using SAOM**
+https://rpubs.com/DerrickJesseMokaya/1312307
 - Applied **Stochastic Actor-Oriented Models (RSiena, R)** to analyze evolving networks  
 - Simulated social behavior using actor-level attributes and peer influences  
 - Performed diagnostics and interpreted longitudinal network data
