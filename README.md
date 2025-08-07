@@ -1,70 +1,84 @@
-Derrick Mokaya 
-Cybersecurity | Security Analyst | IT Support Specialist
+# Derrick Mokaya  
+**Cybersecurity | Security Analyst | SOC Analyst Trainee**  
+📍 Nairobi, Kenya  
+📞 +254 711 558 103  
+✉️ derekmokaya54@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/mokaya-d-a387601b4/)
 
-👋 Hi there! I'm Derrick, a passionate data enthusiast with over four years working experience as a Data Entry Specialist.
+---
 
-🛠 SKILLS:
-Data Science & Analytics:
+## 👨‍💻 Professional Summary  
+Motivated and detail-oriented **Security Analyst** with a strong foundation in cybersecurity, data analysis, and system administration. Demonstrates practical skills in threat detection, network security, and incident response, reinforced by formal training and hands-on labs. Proficient in scripting and automation for security operations. Committed to continuous professional growth and contributing to secure, resilient IT environments.
 
-Programming & Tools: 
-RStudio, SQL, IBM Cognos Analytics, Tableau, MS Power BI
-Techniques & Methods: 
+---
 
-Big Data, Data Mining, Machine Learning, Predictive Modelling, Statistical Analysis, Exploratory Data Analysis (EDA)
+## 🛡️ Core Skills & Expertise
 
-Data Visualization: Tableau, MS Power BI, Dashboard Design
-Software: MS Excel, MS Word, MS Access, MS PowerPoint
+- **Networking & OS:** TCP/IP, DNS, HTTP, OSI Model, Windows & Linux Administration  
+- **Security Tools:** Wireshark, Nmap, Metasploit, Burp Suite, Nessus, OSINT Tools  
+- **SIEM & Monitoring:** Splunk, IBM QRadar, Azure Sentinel (basic proficiency)  
+- **Incident Response:** IOC analysis, malware behavior, triage, IR lifecycle  
+- **Vulnerability Management:** CVE identification, basic scanning & analysis  
+- **Scripting:** Python & Bash (log parsing, automation tasks)  
+- **Security Concepts:** CIA Triad, Defense-in-Depth, Least Privilege, Zero Trust  
+- **Cloud Security:** Basic knowledge of Azure and AWS  
+- **Soft Skills:** Analytical thinking, attention to detail, documentation, collaboration
 
-Research: Data Science Research Methodology
+---
 
-IT Support and Customer Service:
-Core Skills: Customer Service, Network Protocols, Cloud Computing, Debugging, System Administration, IT Security
+## 🎓 Education
 
-Finance:
-B.S. Actuarial Science
-Yale Financial Markets Certificate; Behavioral Finance, Financial Markets, Behavioral Economics
+**BSc. Actuarial Science** – Second Class Lower *(Expected 2025)*  
+*Multimedia University of Kenya*
 
-📜 Courses & Certifications:
-IBM Data Science
-IBM Data Analytics
-Google Advanced Data Analytics
-Google Analytics (GA4) Certification
+**Kenya Certificate of Secondary Education (A–)**  
+*Nakuru High School, 2013*
 
-IT Support:
-Google IT Support Certificate
+---
 
-🏆 Professional Experience:
-Data Entry Specialist (Remote/Self-Employed)
-Duration: 4 years 5 months
-Accomplishments and responsibilities;
-• Managed and analyzed large datasets to ensure data integrity and accuracy.
-• Developed automated data entry systems to improve efficiency and reduce errors.
-• Collaborated with clients to understand data requirements and deliver accurate results.
-• Undertook data entry operations, processed over two hundred thousand records with over 99%
-accuracy.
-• Analyzed data from various sources to provide actionable insights, supporting business decisions
-that led to a 11% increase in sales.
-• Managed data cleansing and normalization for over 100, 000 records, ensuring high data quality
-and usability.
-• Created detailed reports and dashboards for senior management, highlighting key metrics and
-trends.
-• Attended an internal webinar training sessions on data entry best practices, significantly
-improving productivity. 
+## 📜 Certifications
 
-🚀 Projects
-IBM Data Science Capstone Project.
-Google Advanced Analytics Capstone.
+### 🛡️ CISCO Ethical Hacker *(CyberShujaa / NETACAD – Aug 2025)*
+- Planning and Scoping
+- Vulnerability Scanning & Social Engineering
+- Network & Application Exploitation
+- IoT, Mobile & Cloud Security
+- Post-Exploitation & Reporting
 
-📈 Current Focus
-Continuos learning to advance my skills in Data Science.
-Exploring new trends and techniques in Machine Learning and Big Data.
-Completing my B.Sc. in Actuarial Science and Preparing for Masters degree.
+### 🛡️ Google Cybersecurity Certificate *(May 2024)*
+- Risk Management, Threats & Vulnerabilities
+- Network Security, Linux & SQL
+- Automating Cybersecurity Tasks with Python
 
-🌐 Reach out to me
-LinkedIn  https://www.linkedin.com/in/mokaya-d-a387601b4/
-Twitter   https://x.com/DerrickMok34241
-Email    derekmokaya54@gmail.com
+### 🖥️ Google IT Support Certificate *(June 2024)*
+- Networking, Systems Admin, Infrastructure, IT Security
 
-Feel free to reach out for collaboration or any data-related queries!
+---
 
+## 🧪 Projects & Lab Experience
 
+### **🎯 Final Year Project – Social Network Analysis Using SAOM**
+- Applied **Stochastic Actor-Oriented Models (RSiena, R)** to analyze evolving networks  
+- Simulated social behavior using actor-level attributes and peer influences  
+- Performed diagnostics and interpreted longitudinal network data
+
+### **🔐 Hack The Box Academy – SOC Analyst Career Path**
+- Actively progressing through blue-team lab challenges  
+- Practicing real-world incident detection, log analysis, threat triage  
+- Building hands-on SOC skills in a structured, scenario-based environment
+
+---
+
+## 📈 Current Goals
+- Preparing for **CompTIA Security+** and **Microsoft SC-200**  
+- Deepening hands-on experience with SIEM, digital forensics, threat intelligence  
+- Exploring intersection of cybersecurity and actuarial risk modeling
+
+---
+
+## 🌐 Connect With Me
+- **LinkedIn:** [linkedin.com/in/mokaya-d-a387601b4](https://www.linkedin.com/in/mokaya-d-a387601b4/)  
+- **Email:** derekmokaya54@gmail.com  
+- **Twitter:** [@DerrickMok34241](https://x.com/DerrickMok34241)
+
+> *Let’s collaborate on cybersecurity, blue team projects, or threat detection research.*
