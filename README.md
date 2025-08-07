@@ -28,7 +28,7 @@ Motivated and passionate **Security Analyst** with a strong foundation in cybers
 
 ## 🎓 Education
 
-**BSc. Actuarial Science** – Second Class Lower**  
+**BSc. Actuarial Science** – Second Class Lower 
 *Multimedia University of Kenya*
 
 **Kenya Certificate of Secondary Education (A–)**  
