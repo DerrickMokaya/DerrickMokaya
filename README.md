@@ -28,17 +28,17 @@ Motivated and passionate **Security Analyst** with a strong foundation in cybers
 
 ## 🎓 Education
 
-**BSc. Actuarial Science** – Second Class Lower *(Expected 2025)*  
+**BSc. Actuarial Science** – Second Class Lower **  
 *Multimedia University of Kenya*
 
 **Kenya Certificate of Secondary Education (A–)**  
-*Nakuru High School, 2013*
+*Nakuru High School*
 
 ---
 
 ## 📜 Certifications
 
-### 🛡️ CISCO Ethical Hacker *(CyberShujaa / NETACAD – Aug 2025)*
+### 🛡️ CISCO Ethical Hacker *(CyberShujaa / NETACAD  May – Aug 2025)*
 - Planning and Scoping
 - Vulnerability Scanning & Social Engineering
 - Network & Application Exploitation
@@ -57,7 +57,7 @@ Motivated and passionate **Security Analyst** with a strong foundation in cybers
 
 ## 🧪 Projects & Lab Experience
 
-### **🎯 Final Year Project – Social Network Analysis Using SAOM**
+### **🎯 University Final Year Project – Social Network Analysis Using SAOM**
 https://rpubs.com/DerrickJesseMokaya/1312307
 - Applied **Stochastic Actor-Oriented Models (RSiena, R)** to analyze evolving networks  
 - Simulated social behavior using actor-level attributes and peer influences  
